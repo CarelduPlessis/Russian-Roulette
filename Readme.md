@@ -31,7 +31,7 @@
          
          
            --------------------------------
-            Where found my Resources 
+            Where I found my Resources 
            --------------------------------
 
             Soundbile:
