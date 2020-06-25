@@ -13,15 +13,7 @@ namespace Russian_Roulette
 {
     public partial class GameMenu : Form
     {
-        /******************************
-         * Objective of this Form
-         ******************************
-         
-         *  
-         
-         *  
-         
-         */
+        
         public GameMenu()
         {
             InitializeComponent();

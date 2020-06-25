@@ -18,16 +18,6 @@ namespace Russian_Roulette
             InitializeComponent();
         }
 
-        /******************************
-         * Objective of this Form
-         ******************************
-         
-         *  player must create name in order to play the game.
-         
-         *  player name will be stored and used later.
-         
-         */
-
         // with the new public static instance of the "GameRepository" class we can make the values stored globle accessable with this 
         // class instance
         public static GameRepository repositoryClass = new GameRepository();

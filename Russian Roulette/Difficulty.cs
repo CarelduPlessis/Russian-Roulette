@@ -17,18 +17,7 @@ namespace Russian_Roulette
         {
             InitializeComponent();
         }
-        /******************************
-         * Objective of this Form
-         ******************************
-         
-         *  Player must choose the difficulty of the game in order to play the game.
-         
-         *  Difficulty will be stored and used later.
-         
-         *  Note: The easier the difficulty of the game the more ducks the player will have.
-         
-         */
-
+        
         // with the new public static instance of the "GameRepository" class we can make the values stored globle accessable with this 
         // class instance
         public static GameRepository repositoryClass = new GameRepository();

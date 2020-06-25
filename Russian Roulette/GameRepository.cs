@@ -10,12 +10,6 @@ namespace Russian_Roulette
     public class GameRepository
     {
 
-        /******************************
-         * Objective of this Class
-         ******************************
-         * is  to store values and functions for later use.
-         */
-
         private string level; 
 
         // Geter seter methods to get and store values
