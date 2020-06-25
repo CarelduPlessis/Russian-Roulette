@@ -1,3 +1,42 @@
+	 /******************************
+         * Objective of GameMenu Form
+         ******************************
+         
+         *  the Game menu form is to welcome the player and introduce them to the game.
+         
+         *  the Game menu form also gives player the option to start the game or exit the game. 
+         
+         */
+	 
+	 
+	 /******************************
+         * Objective of PlayerName Form
+         ******************************
+         
+         *  player must create name in order to play the game.
+         
+         *  player name will be stored and used later.
+         
+         */
+	 
+	 /******************************
+         * Objective of Difficulty Form
+         ******************************
+         
+         *  Player must choose the difficulty of the game in order to play the game.
+         
+         *  Difficulty will be stored and used later.
+         
+         *  Note: The easier the difficulty of the game the more ducks the player will have.
+         
+         */
+	 
+	 /******************************
+         * Objective of GameRepository Class
+         ******************************
+         * is  to store values and functions for later use.
+         */
+	
 	/****************************************************
          * Objective of RussianRouletteUI Form and Game Rules 
          ****************************************************
@@ -31,7 +70,7 @@
          
          
            --------------------------------
-            Where found my Resources 
+            Where I found my Resources 
            --------------------------------
 
             Soundbile:
